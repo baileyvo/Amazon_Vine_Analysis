@@ -6,6 +6,7 @@ The purpose of this analysis was to analyze Amazon reviews written by members of
 ## Results
 ### Table
 The overall analysis yielded the following table:
+
 ![Amazon_Vine_Analysis](https://github.com/baileyvo/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_Analysis.PNG)
 
 ### Analysis
